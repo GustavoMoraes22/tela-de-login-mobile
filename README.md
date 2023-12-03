@@ -4,7 +4,7 @@
 <h2 align="center">Preview</h2>
 
 <div align="center">
- <img src='https://github.com/GustavoMoraes22/tela-de-login-mobile/blob/main/assets/login.png?raw=true'>
+ <img src='https://github.com/GustavoMoraes22/tela-de-login-mobile/blob/main/assets/login.png?raw=true'> </br>
   <img src='https://github.com/GustavoMoraes22/tela-de-login-mobile/blob/main/assets/Projeto%20concluido.png?raw=true'>
 </div>
 
