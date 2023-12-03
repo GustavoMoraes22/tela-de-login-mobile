@@ -4,7 +4,9 @@
 <h2 align="center">Preview</h2>
 
 <div align="center">
+ <h2 align="center">Tela de login</h2>
  <img src='https://github.com/GustavoMoraes22/tela-de-login-mobile/blob/main/assets/login.png?raw=true'> </br>
+ <h2 align="center">Tela de Criar conta</h2>
   <img src='https://github.com/GustavoMoraes22/tela-de-login-mobile/blob/main/assets/Projeto%20concluido.png?raw=true'>
 </div>
 
